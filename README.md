@@ -5,4 +5,6 @@ Apos a escolha e busca de um tema base,executei buscas e recursos necessarios pa
 utiliizando metodos que me foram mostrados coloquei em pratica buscando e evuluindo do projeto para entender"necessidades"
 ##etapa2;criar um prototipo
 o prototipo fopi a base dos exemplos do boodstrap que foi fornecido para tarbalho
-##etapa3;construçao
+##etapa3;construção do aplicativos/site
+essa etapa envolve desenvulvimento do front-end,back-end o desenvolvimento pode ser construidooo
+do zero ou ultilizando
